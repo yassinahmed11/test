@@ -16,3 +16,4 @@ for num in reversed(matrix[1]):
                break
        else:
            print(num)
+           print("thanks")
